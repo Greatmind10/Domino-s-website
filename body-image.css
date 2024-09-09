@@ -1,0 +1,89 @@
+.body-image-container {
+  margin-left: 150px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 3rem;
+}
+
+.first-image-container {
+  position: relative;
+  margin-left: 19.2px;
+
+}
+
+.sec-img-container {
+  position: absolute;
+  margin-top: 10px;
+
+}
+
+.bottom-img-container {
+  position: relative;
+  left: 9.4rem;
+}
+
+
+/*styling for footer */
+footer {
+  background-color: rgb(224, 224, 227);
+  position: relative;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 90vh;
+}
+
+.list-container {
+  margin-top: 4rem;
+  margin-left: 6.7rem;
+}
+
+.list-container li {
+  list-style: none;
+  display: inline-block;
+  margin-left: 4px;
+  margin-top: 3rem;
+  font-weight: 700;
+}
+
+.Facebook,
+.X-container,
+.Tiktok,
+.Instagram {
+  width: 40px;
+  border-radius: 50%;
+  height: 40px;
+}
+
+.Interswitch {
+  width: 500px;
+  margin-left: 4rem;
+  mix-blend-mode: multiply;
+}
+
+.image-container {
+  display: flex;
+  align-items: center;
+  margin-top: 4rem;
+  margin-left: 8.7rem;
+}
+
+p {
+  width: 95%;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(73, 73, 77);
+}
+
+.paragaraph-div {
+  margin-top: 5rem;
+  margin-left: 8.9rem;
+
+}
+
+a {
+  text-decoration: none;
+  color: navy;
+}
